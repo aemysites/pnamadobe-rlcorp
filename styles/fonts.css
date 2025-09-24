@@ -1,36 +1,45 @@
-/* stylelint-disable max-line-length */
+
 @font-face {
-  font-family: roboto-condensed;
+  font-family: "Founders Grotesk Mono Regular";      
+  src: url('../fonts/founders-grotesk-mono-regular-normal-normal.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 700;
   font-display: swap;
-  src: url('../fonts/roboto-condensed-bold.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  unicode-range: U+0-10FFFF;
 }
 
 @font-face {
-  font-family: roboto;
+  font-family: "Founders Grotesk text Regular";      
+  src: url('../fonts/founders-grotesk-text-regular-normal-normal.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 700;
   font-display: swap;
-  src: url('../fonts/roboto-bold.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  unicode-range: U+0-10FFFF;
 }
 
 @font-face {
-  font-family: roboto;
+  font-family: "Founders Grotesk Text Medium";      
+  src: url('../fonts/founders-grotesk-text-medium-normal-normal.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 500;
   font-display: swap;
-  src: url('../fonts/roboto-medium.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  unicode-range: U+0-10FFFF;
 }
 
 @font-face {
-  font-family: roboto;
+  font-family: LeJeuneDeck-Regular;      
+  src: url('../fonts/lejeunedeck-regular-normal-normal.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 400;
   font-display: swap;
-  src: url('../fonts/roboto-regular.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: "Founders Grotesk Mono Medium";      
+  src: url('../fonts/founders-grotesk-mono-medium-normal-normal.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
 }

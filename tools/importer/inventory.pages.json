@@ -1,0 +1,236 @@
+{
+  "templates": [
+    {
+      "name": "'Multi-section Content Page'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-2",
+          "uuid": "c9971dcb658bae6eb5b868739cf640c9d49b5fab"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "uuid": "7e0e3839b0e99640a72d595af6535bcabc4d9827"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "uuid": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "uuid": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "uuid": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/strategy",
+          "uuid": "68111c8eb8bf735d4bc6345a62f55bc9dafc8f22"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "uuid": "398abe0f91ba8da086fd898515e4874bb7a59202"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "uuid": "c097c146a972832825515e1724fca4fed05c9036"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "uuid": "fd09045cacb4b34781cad9c4dca2b849cbce96ed"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "uuid": "d662f9428cf3cd7d82507ecbe5a9f3c574304785"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "uuid": "f28c4592b815fbbb3f7830a751de4743c1536de2"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/media-assets",
+          "uuid": "cddc54ed33775091af170dfa2900cdd3fcd51245"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/images",
+          "uuid": "fd68109da275fed6414c569fe8d492f16d35f6ef"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/logos",
+          "uuid": "99437f74a88eb3ee6c36ccec205d92b582810349"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/hospitality",
+          "uuid": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "uuid": "691c2d08dde1a06a51de5b041ce090162f4f692c"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/cs-factory-list.html",
+          "uuid": "bb26d834f3b450a6aba277901b09410287367097"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+          "uuid": "356f7b3600e7706d03648a3212ad8b8b459b58da"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/brands",
+          "uuid": "9e45a6cdc707e5e67221a5c374fcae4fd700cb24"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/careers",
+          "uuid": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/privacy-policy",
+          "uuid": "0b38ed52c4a6ede79c434530b4250422b8a483e0"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/ralph-lauren-luxury",
+          "uuid": "8ffa028236091c4771256de30da9b7dcf69ffc50"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/polo-ralph-lauren",
+          "uuid": "4f6b4ec041d9b683b3fcd1516b317112a365dc75"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/operating-guidelines",
+          "uuid": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/our-company",
+          "uuid": "2b01752240349afc4c0b6f613ea02d6d082dad4c"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-ralph-lauren-full-bio.html",
+          "uuid": "9f767b430e5fbf851888a179c70ca77484544a8a"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-patrice-louvet-full-bio.html",
+          "uuid": "221fbe8ad5d5306168dba48f3868caa2041e956d"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/investor-relations",
+          "uuid": "50053c4ea86eb86e6a9f46351555a418e3ddbe37"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+          "uuid": "c45ce305377b288d0df0615b280848111843ca29"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/transparency-acts",
+          "uuid": "b94fc179b825d07ea71830707743b762fd40c853"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/terms-of-use",
+          "uuid": "5273550d7ed1b032ce27f6d5ee4f2bafa6bed3f0"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/contact",
+          "uuid": "eb7eb5274aa51fb61840c1ac35eb9072c800b329"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/accessibility-statement",
+          "uuid": "32b0f13bdd0ade7719c682ba6a30d8d410a77ee3"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/chaps",
+          "uuid": "c13feeae136010558fe66bc8b55a5fc631b18ae6"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/210604_HumanRightsPolicy.html",
+          "uuid": "1ec829b373d0c3460bb6a36cfdc7e60211827fa6"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-1",
+          "uuid": "f696eda8a67344329803a980acf5270d120700fb"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/lauren-ralph-lauren",
+          "uuid": "435cb52fa09992b0b6322272ea91e2a5c9f48d82"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+          "uuid": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+          "uuid": "6f0d25c937377cea2e1999561f0ec72b45b5e318"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+          "uuid": "34cc24d4d995856739101f99b0c2dbcc827f1519"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+          "uuid": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+          "uuid": "ca07ee8de89ad981db0b8d55448aeeec798a323e"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+          "uuid": "9536652102ebd494d998537f9fe48aff27382aee"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+          "uuid": "dab02d5c42de7953056a80b7f227505d2f47a4aa"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+          "uuid": "8ded1993a04248299f26d2fddef3cebd48cdcc29"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+          "uuid": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+          "uuid": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+          "uuid": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+          "uuid": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+          "uuid": "405ebc27b0c88f8392e634cd2100f061cb42b761"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+          "uuid": "035d9025b0140390f55ba82d6b3c5e5b206ad59b"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+          "uuid": "5130b703468bade147c9882e568be799d6e371ee"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+          "uuid": "490224ca7745845e043d1a55eacdf6bf1d0be50b"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+          "uuid": "08497c6fe8747ad9023818cb6039eaffddec2410"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-section Landing Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "uuid": "1e60aaaca59771df002f51919fc9d076b316e7f6"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3876 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+          "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+          "uuid": "035d9025-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+          "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+          "uuid": "08497c6f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/privacy-policy",
+          "urlHash": "0b38ed52c4a6ede79c434530b4250422b8a483e0",
+          "uuid": "0b38ed52-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+          "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+          "uuid": "170f61a8-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+          "uuid": "1e60aaac-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/210604_HumanRightsPolicy.html",
+          "urlHash": "1ec829b373d0c3460bb6a36cfdc7e60211827fa6",
+          "uuid": "1ec829b3-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-patrice-louvet-full-bio.html",
+          "urlHash": "221fbe8ad5d5306168dba48f3868caa2041e956d",
+          "uuid": "221fbe8a-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/our-company",
+          "urlHash": "2b01752240349afc4c0b6f613ea02d6d082dad4c",
+          "uuid": "2b017522-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+          "uuid": "2f4b9e2b-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/accessibility-statement",
+          "urlHash": "32b0f13bdd0ade7719c682ba6a30d8d410a77ee3",
+          "uuid": "32b0f13b-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+          "urlHash": "34cc24d4d995856739101f99b0c2dbcc827f1519",
+          "uuid": "34cc24d4-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+          "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+          "uuid": "356f7b36-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+          "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+          "uuid": "387a9eb0-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+          "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+          "uuid": "405ebc27-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+          "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+          "uuid": "42b65f41-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/lauren-ralph-lauren",
+          "urlHash": "435cb52fa09992b0b6322272ea91e2a5c9f48d82",
+          "uuid": "435cb52f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+          "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+          "uuid": "490224ca-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/hospitality",
+          "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+          "uuid": "4ded2cb6-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/polo-ralph-lauren",
+          "urlHash": "4f6b4ec041d9b683b3fcd1516b317112a365dc75",
+          "uuid": "4f6b4ec0-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/investor-relations",
+          "urlHash": "50053c4ea86eb86e6a9f46351555a418e3ddbe37",
+          "uuid": "50053c4e-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+          "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+          "uuid": "5130b703-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/terms-of-use",
+          "urlHash": "5273550d7ed1b032ce27f6d5ee4f2bafa6bed3f0",
+          "uuid": "5273550d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/strategy",
+          "urlHash": "68111c8eb8bf735d4bc6345a62f55bc9dafc8f22",
+          "uuid": "68111c8e-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+          "uuid": "691c2d08-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+          "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+          "uuid": "6f0d25c9-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+          "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+          "uuid": "76f4d07d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/careers",
+          "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+          "uuid": "83d8713d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+          "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+          "uuid": "8ded1993-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/ralph-lauren-luxury",
+          "urlHash": "8ffa028236091c4771256de30da9b7dcf69ffc50",
+          "uuid": "8ffa0282-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+          "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+          "uuid": "95366521-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/logos",
+          "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+          "uuid": "99437f74-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/brands",
+          "urlHash": "9e45a6cdc707e5e67221a5c374fcae4fd700cb24",
+          "uuid": "9e45a6cd-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-ralph-lauren-full-bio.html",
+          "urlHash": "9f767b430e5fbf851888a179c70ca77484544a8a",
+          "uuid": "9f767b43-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+          "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+          "uuid": "b2ff20a4-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/transparency-acts",
+          "urlHash": "b94fc179b825d07ea71830707743b762fd40c853",
+          "uuid": "b94fc179-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/cs-factory-list.html",
+          "urlHash": "bb26d834f3b450a6aba277901b09410287367097",
+          "uuid": "bb26d834-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/chaps",
+          "urlHash": "c13feeae136010558fe66bc8b55a5fc631b18ae6",
+          "uuid": "c13feeae-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+          "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+          "uuid": "c45ce305-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-2",
+          "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+          "uuid": "c9971dcb-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+          "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+          "uuid": "ca07ee8d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/media-assets",
+          "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+          "uuid": "cddc54ed-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+          "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+          "uuid": "d00ceb73-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/operating-guidelines",
+          "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+          "uuid": "d19d65cb-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+          "uuid": "d662f942-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+          "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+          "uuid": "dab02d5c-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/contact",
+          "urlHash": "eb7eb5274aa51fb61840c1ac35eb9072c800b329",
+          "uuid": "eb7eb527-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-1",
+          "urlHash": "f696eda8a67344329803a980acf5270d120700fb",
+          "uuid": "f696eda8-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/images",
+          "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+          "uuid": "fd68109d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        }
+      ],
+      "styles": {
+        "height": 120,
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+          "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+          "uuid": "035d9025-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+          "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+          "uuid": "08497c6f-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/privacy-policy",
+          "urlHash": "0b38ed52c4a6ede79c434530b4250422b8a483e0",
+          "uuid": "0b38ed52-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+          "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+          "uuid": "170f61a8-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+          "uuid": "1e60aaac-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/210604_HumanRightsPolicy.html",
+          "urlHash": "1ec829b373d0c3460bb6a36cfdc7e60211827fa6",
+          "uuid": "1ec829b3-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-patrice-louvet-full-bio.html",
+          "urlHash": "221fbe8ad5d5306168dba48f3868caa2041e956d",
+          "uuid": "221fbe8a-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/our-company",
+          "urlHash": "2b01752240349afc4c0b6f613ea02d6d082dad4c",
+          "uuid": "2b017522-03-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+          "uuid": "2f4b9e2b-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/accessibility-statement",
+          "urlHash": "32b0f13bdd0ade7719c682ba6a30d8d410a77ee3",
+          "uuid": "32b0f13b-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+          "urlHash": "34cc24d4d995856739101f99b0c2dbcc827f1519",
+          "uuid": "34cc24d4-04-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+          "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+          "uuid": "356f7b36-08-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+          "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+          "uuid": "387a9eb0-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-16-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+          "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+          "uuid": "405ebc27-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+          "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+          "uuid": "42b65f41-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/lauren-ralph-lauren",
+          "urlHash": "435cb52fa09992b0b6322272ea91e2a5c9f48d82",
+          "uuid": "435cb52f-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+          "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+          "uuid": "490224ca-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/hospitality",
+          "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+          "uuid": "4ded2cb6-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/polo-ralph-lauren",
+          "urlHash": "4f6b4ec041d9b683b3fcd1516b317112a365dc75",
+          "uuid": "4f6b4ec0-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/investor-relations",
+          "urlHash": "50053c4ea86eb86e6a9f46351555a418e3ddbe37",
+          "uuid": "50053c4e-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+          "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+          "uuid": "5130b703-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/terms-of-use",
+          "urlHash": "5273550d7ed1b032ce27f6d5ee4f2bafa6bed3f0",
+          "uuid": "5273550d-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-15-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/strategy",
+          "urlHash": "68111c8eb8bf735d4bc6345a62f55bc9dafc8f22",
+          "uuid": "68111c8e-03-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+          "uuid": "691c2d08-12-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+          "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+          "uuid": "6f0d25c9-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+          "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+          "uuid": "76f4d07d-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/careers",
+          "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+          "uuid": "83d8713d-10-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+          "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+          "uuid": "8ded1993-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/ralph-lauren-luxury",
+          "urlHash": "8ffa028236091c4771256de30da9b7dcf69ffc50",
+          "uuid": "8ffa0282-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+          "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+          "uuid": "95366521-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/logos",
+          "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+          "uuid": "99437f74-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/brands",
+          "urlHash": "9e45a6cdc707e5e67221a5c374fcae4fd700cb24",
+          "uuid": "9e45a6cd-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-ralph-lauren-full-bio.html",
+          "urlHash": "9f767b430e5fbf851888a179c70ca77484544a8a",
+          "uuid": "9f767b43-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+          "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+          "uuid": "b2ff20a4-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/transparency-acts",
+          "urlHash": "b94fc179b825d07ea71830707743b762fd40c853",
+          "uuid": "b94fc179-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/cs-factory-list.html",
+          "urlHash": "bb26d834f3b450a6aba277901b09410287367097",
+          "uuid": "bb26d834-02-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/chaps",
+          "urlHash": "c13feeae136010558fe66bc8b55a5fc631b18ae6",
+          "uuid": "c13feeae-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+          "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+          "uuid": "c45ce305-09-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-2",
+          "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+          "uuid": "c9971dcb-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+          "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+          "uuid": "ca07ee8d-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/media-assets",
+          "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+          "uuid": "cddc54ed-08-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+          "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+          "uuid": "d00ceb73-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/operating-guidelines",
+          "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+          "uuid": "d19d65cb-35-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+          "uuid": "d662f942-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+          "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+          "uuid": "dab02d5c-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/contact",
+          "urlHash": "eb7eb5274aa51fb61840c1ac35eb9072c800b329",
+          "uuid": "eb7eb527-03-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-21-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-1",
+          "urlHash": "f696eda8a67344329803a980acf5270d120700fb",
+          "uuid": "f696eda8-01-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/images",
+          "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+          "uuid": "fd68109d-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns block",
+      "target": "Columns block (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-03-567a5f0e603a341bc322db41d533f09e036d9934",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/section[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-03-567a5f0e603a341bc322db41d533f09e036d9934",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/section[1]",
+          "section": "section-6"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-03-ac955c2ed320213760f3f52728f136cba14c747e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[1]",
+          "section": "section-9"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns block",
+      "target": "Columns block (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+          "uuid": "2f4b9e2b-02-da215beb7417015d95ff2cde052e6f4a502297de",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+          "uuid": "2f4b9e2b-03-4d0dea1c3f34ab38181932a1518c93d04fafb263",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns block",
+      "target": "Columns block (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-05-49b1b0ee2b9d68514e2e1e10da144157adf07b1f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]/section[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-07-dd237f387ce54055481aec5d3c5928c1ac5c0b58",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]/section[2]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cards4)",
+      "key": "cards4",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-04-1125c8874c57d677fb77928fa7850637f0b0a568",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/section[2]",
+          "section": "section-6"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-04-5b640c14bbb03128d044fdb5eb10da4a56747efa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]",
+          "section": "section-9"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 5,
+      "source": "Hero",
+      "target": "Hero (hero5)",
+      "key": "hero5",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/strategy",
+          "urlHash": "68111c8eb8bf735d4bc6345a62f55bc9dafc8f22",
+          "uuid": "68111c8e-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 6,
+      "source": "Header",
+      "target": "Header (header6)",
+      "key": "header6",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+          "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+          "uuid": "035d9025-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+          "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+          "uuid": "08497c6f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/privacy-policy",
+          "urlHash": "0b38ed52c4a6ede79c434530b4250422b8a483e0",
+          "uuid": "0b38ed52-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+          "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+          "uuid": "170f61a8-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+          "uuid": "1e60aaac-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/210604_HumanRightsPolicy.html",
+          "urlHash": "1ec829b373d0c3460bb6a36cfdc7e60211827fa6",
+          "uuid": "1ec829b3-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-patrice-louvet-full-bio.html",
+          "urlHash": "221fbe8ad5d5306168dba48f3868caa2041e956d",
+          "uuid": "221fbe8a-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/our-company",
+          "urlHash": "2b01752240349afc4c0b6f613ea02d6d082dad4c",
+          "uuid": "2b017522-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+          "uuid": "2f4b9e2b-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/accessibility-statement",
+          "urlHash": "32b0f13bdd0ade7719c682ba6a30d8d410a77ee3",
+          "uuid": "32b0f13b-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+          "urlHash": "34cc24d4d995856739101f99b0c2dbcc827f1519",
+          "uuid": "34cc24d4-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+          "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+          "uuid": "356f7b36-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+          "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+          "uuid": "387a9eb0-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+          "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+          "uuid": "405ebc27-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+          "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+          "uuid": "42b65f41-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/lauren-ralph-lauren",
+          "urlHash": "435cb52fa09992b0b6322272ea91e2a5c9f48d82",
+          "uuid": "435cb52f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+          "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+          "uuid": "490224ca-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/hospitality",
+          "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+          "uuid": "4ded2cb6-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/polo-ralph-lauren",
+          "urlHash": "4f6b4ec041d9b683b3fcd1516b317112a365dc75",
+          "uuid": "4f6b4ec0-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/investor-relations",
+          "urlHash": "50053c4ea86eb86e6a9f46351555a418e3ddbe37",
+          "uuid": "50053c4e-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+          "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+          "uuid": "5130b703-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/terms-of-use",
+          "urlHash": "5273550d7ed1b032ce27f6d5ee4f2bafa6bed3f0",
+          "uuid": "5273550d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/strategy",
+          "urlHash": "68111c8eb8bf735d4bc6345a62f55bc9dafc8f22",
+          "uuid": "68111c8e-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+          "uuid": "691c2d08-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+          "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+          "uuid": "6f0d25c9-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+          "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+          "uuid": "76f4d07d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/careers",
+          "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+          "uuid": "83d8713d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+          "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+          "uuid": "8ded1993-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/ralph-lauren-luxury",
+          "urlHash": "8ffa028236091c4771256de30da9b7dcf69ffc50",
+          "uuid": "8ffa0282-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+          "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+          "uuid": "95366521-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/logos",
+          "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+          "uuid": "99437f74-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/brands",
+          "urlHash": "9e45a6cdc707e5e67221a5c374fcae4fd700cb24",
+          "uuid": "9e45a6cd-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/leadership-ralph-lauren-full-bio.html",
+          "urlHash": "9f767b430e5fbf851888a179c70ca77484544a8a",
+          "uuid": "9f767b43-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+          "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+          "uuid": "b2ff20a4-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/transparency-acts",
+          "urlHash": "b94fc179b825d07ea71830707743b762fd40c853",
+          "uuid": "b94fc179-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/cs-factory-list.html",
+          "urlHash": "bb26d834f3b450a6aba277901b09410287367097",
+          "uuid": "bb26d834-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/chaps",
+          "urlHash": "c13feeae136010558fe66bc8b55a5fc631b18ae6",
+          "uuid": "c13feeae-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+          "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+          "uuid": "c45ce305-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-2",
+          "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+          "uuid": "c9971dcb-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+          "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+          "uuid": "ca07ee8d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/media-assets",
+          "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+          "uuid": "cddc54ed-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+          "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+          "uuid": "d00ceb73-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/operating-guidelines",
+          "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+          "uuid": "d19d65cb-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+          "uuid": "d662f942-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+          "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+          "uuid": "dab02d5c-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/contact",
+          "urlHash": "eb7eb5274aa51fb61840c1ac35eb9072c800b329",
+          "uuid": "eb7eb527-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-1",
+          "urlHash": "f696eda8a67344329803a980acf5270d120700fb",
+          "uuid": "f696eda8-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/images",
+          "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+          "uuid": "fd68109d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns block",
+      "target": "Columns block (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+          "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+          "uuid": "035d9025-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+          "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+          "uuid": "08497c6f-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+          "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+          "uuid": "356f7b36-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+          "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+          "uuid": "387a9eb0-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+          "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+          "uuid": "405ebc27-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+          "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+          "uuid": "42b65f41-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+          "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+          "uuid": "490224ca-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+          "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+          "uuid": "5130b703-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+          "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+          "uuid": "76f4d07d-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+          "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+          "uuid": "8ded1993-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+          "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+          "uuid": "b2ff20a4-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+          "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+          "uuid": "d00ceb73-01-95db1bea38edb0ef06979cfb06d307cc9a116f3b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/logos",
+          "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+          "uuid": "99437f74-06-4cf40f29f5b377b3c123b02f1cdc729cb8bb8d0b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/media-assets",
+          "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+          "uuid": "cddc54ed-06-4cf40f29f5b377b3c123b02f1cdc729cb8bb8d0b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/images",
+          "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+          "uuid": "fd68109d-06-4cf40f29f5b377b3c123b02f1cdc729cb8bb8d0b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 9,
+      "source": "Hero",
+      "target": "Hero (hero9)",
+      "key": "hero9",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+          "uuid": "691c2d08-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 10,
+      "source": "Hero",
+      "target": "Hero (hero10)",
+      "key": "hero10",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-12-7a47fd4c780472178b8251218390dcf687d74539",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-12-7a47fd4c780472178b8251218390dcf687d74539",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 11,
+      "source": "Hero",
+      "target": "Hero (hero11)",
+      "key": "hero11",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-01-d69a40c78d97fb786013551eff7b328337c1deb6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-01-d69a40c78d97fb786013551eff7b328337c1deb6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 12,
+      "source": "Hero",
+      "target": "Hero (hero12)",
+      "key": "hero12",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-11-5b6355e3908093e05fd61ac803e4b1fcadf6cb0b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-11-5b6355e3908093e05fd61ac803e4b1fcadf6cb0b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 13,
+      "source": "Cards",
+      "target": "Cards (cards13)",
+      "key": "cards13",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+          "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+          "uuid": "035d9025-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+          "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+          "uuid": "035d9025-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+          "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+          "uuid": "08497c6f-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+          "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+          "uuid": "08497c6f-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+          "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+          "uuid": "170f61a8-03-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+          "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+          "uuid": "170f61a8-05-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-08-65507ad22b565a029d3a0e05c41b291253f31467",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-09-06ca0c84032a320abeb421ed382d07612210ad12",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+          "uuid": "1e60aaac-09-028a15c72fbd9e00415a0ba0ad61966178472ce6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+          "uuid": "1e60aaac-11-735bc4b1563f556bdf065d55dbd4c77105ac160b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+          "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+          "uuid": "356f7b36-04-02105f4a890b61275c20cf32c53a6354e34fc083",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+          "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+          "uuid": "356f7b36-06-b9f207a354bfc0fbe7a798f0ab0560fd9802a0ee",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+          "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+          "uuid": "387a9eb0-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+          "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+          "uuid": "387a9eb0-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-11-95eb030ecec1617b87be35a9a519f543cbe91d9e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-12-94b89bdf2f5a16119c3d788c6eed116bbacef0e4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+          "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+          "uuid": "405ebc27-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+          "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+          "uuid": "405ebc27-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+          "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+          "uuid": "42b65f41-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+          "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+          "uuid": "42b65f41-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+          "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+          "uuid": "490224ca-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+          "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+          "uuid": "490224ca-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+          "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+          "uuid": "5130b703-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+          "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+          "uuid": "5130b703-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-10-65507ad22b565a029d3a0e05c41b291253f31467",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+          "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+          "uuid": "5a5e5e09-11-06ca0c84032a320abeb421ed382d07612210ad12",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+          "uuid": "691c2d08-07-95eb030ecec1617b87be35a9a519f543cbe91d9e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+          "uuid": "691c2d08-08-94b89bdf2f5a16119c3d788c6eed116bbacef0e4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+          "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+          "uuid": "6f0d25c9-03-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+          "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+          "uuid": "6f0d25c9-05-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+          "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+          "uuid": "76f4d07d-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+          "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+          "uuid": "76f4d07d-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-08-65507ad22b565a029d3a0e05c41b291253f31467",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+          "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+          "uuid": "7e0e3839-09-06ca0c84032a320abeb421ed382d07612210ad12",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+          "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+          "uuid": "8ded1993-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+          "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+          "uuid": "8ded1993-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+          "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+          "uuid": "95366521-03-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+          "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+          "uuid": "95366521-05-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+          "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+          "uuid": "b2ff20a4-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+          "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+          "uuid": "b2ff20a4-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-02-a950fcf09c5b14d3cfabc0b74483aeb0b429d776",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-04-e45d51d14efa667c7adeb82d74af7f4652f9b480",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-05-d75767ea89318834ef17bddf77a99dd9a09ad743",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-06-96ec2154fc6084467bb7dbc88a4679fa2f3f692f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-07-e7c1b42ebd4f9087e2a5cba3b1d23e697133dd3f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/newsroom",
+          "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+          "uuid": "c097c146-08-7f8144d6d9399d0aeec31406219499abd77812b4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+          "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+          "uuid": "ca07ee8d-03-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+          "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+          "uuid": "ca07ee8d-05-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+          "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+          "uuid": "d00ceb73-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+          "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+          "uuid": "d00ceb73-06-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+          "uuid": "d662f942-09-028a15c72fbd9e00415a0ba0ad61966178472ce6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+          "uuid": "d662f942-11-735bc4b1563f556bdf065d55dbd4c77105ac160b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+          "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+          "uuid": "dab02d5c-03-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+          "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+          "uuid": "dab02d5c-05-04acfa4cb1590da075517c3354dd313d2a9abc70",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-16-65507ad22b565a029d3a0e05c41b291253f31467",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-17-06ca0c84032a320abeb421ed382d07612210ad12",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[2]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-02-a950fcf09c5b14d3cfabc0b74483aeb0b429d776",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-04-e45d51d14efa667c7adeb82d74af7f4652f9b480",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-05-d75767ea89318834ef17bddf77a99dd9a09ad743",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-06-96ec2154fc6084467bb7dbc88a4679fa2f3f692f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-07-e7c1b42ebd4f9087e2a5cba3b1d23e697133dd3f",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+          "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+          "uuid": "fd09045c-08-7f8144d6d9399d0aeec31406219499abd77812b4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns block",
+      "target": "Columns block (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+          "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+          "uuid": "c45ce305-04-d1a5cfcc0ac53f0c4330cf34d6231e5a64785c8c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[2]/section[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 15,
+      "source": "Hero",
+      "target": "Hero (hero15)",
+      "key": "hero15",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+          "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+          "uuid": "c45ce305-07-9543bbbff2fab7774820c8ea5de08b1d3f0cde30",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[3]",
+          "section": "section-11"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+          "uuid": "2f4b9e2b-04-6b1545cc63c578fd02cad134b55164505f69d03d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns block",
+      "target": "Columns block (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+          "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+          "uuid": "c45ce305-06-9d98f6ea414146cf6cace1d45f051cf2451f4374",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[2]/section[4]",
+          "section": "section-10"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+          "urlHash": "34cc24d4d995856739101f99b0c2dbcc827f1519",
+          "uuid": "34cc24d4-03-d94dfcdcceecfd59fe45c39ca3edd210c3c6ce6e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 19,
+      "source": "Cards",
+      "target": "Cards (cards19)",
+      "key": "cards19",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/hospitality",
+          "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+          "uuid": "4ded2cb6-05-80230b0a0b2f9deb2faf41f85da8e5e261ac7827",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 20,
+      "source": "Carousel",
+      "target": "Carousel (carousel20)",
+      "key": "carousel20",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+          "uuid": "1e60aaac-04-395dcd9eaa9ccaf95ccc8b02576ca993595389e8",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/section[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+          "uuid": "d662f942-04-395dcd9eaa9ccaf95ccc8b02576ca993595389e8",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "source": "Hero",
+      "target": "Hero (hero21)",
+      "key": "hero21",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/",
+          "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+          "uuid": "1e60aaac-06-44425a2e2bf4c64dfadb3885ac1bf6d291a078ad",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+          "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+          "uuid": "d662f942-06-44425a2e2bf4c64dfadb3885ac1bf6d291a078ad",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns block",
+      "target": "Columns block (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/reports-and-policies",
+          "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+          "uuid": "691c2d08-05-d764f2e29e702937fd1f82a00553e39a5c2edc1b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[3]",
+          "section": "section-8"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns block",
+      "target": "Columns block (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-06-4a14872af4cff7a9ff66ddc01b8ab2a8f765b8ec",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[1]/div[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-09-99fb42228ed4db377bc9fa6a0dbb63a361ee8466",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 24,
+      "source": "Cards",
+      "target": "Cards (cards24)",
+      "key": "cards24",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/logos",
+          "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+          "uuid": "99437f74-04-d73d0826152d6dc109bdc4affe767b99f083f620",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/media-assets",
+          "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+          "uuid": "cddc54ed-04-d73d0826152d6dc109bdc4affe767b99f083f620",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://corporate.ralphlauren.com/images",
+          "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+          "uuid": "fd68109d-04-d73d0826152d6dc109bdc4affe767b99f083f620",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 25,
+      "source": "Columns block",
+      "target": "Columns block (columns25)",
+      "key": "columns25",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-2",
+          "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+          "uuid": "c9971dcb-02-13fa3a4174c6d46b256511614c634150e66d37f7",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]",
+          "section": "section-12"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns block",
+      "target": "Columns block (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/collaboration",
+          "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+          "uuid": "398abe0f-09-a289c1f16aa60e79e46eeed29108840ff40c3ca0",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]/section[3]/div[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 28,
+      "source": "Hero",
+      "target": "Hero (hero28)",
+      "key": "hero28",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/our-company",
+          "urlHash": "2b01752240349afc4c0b6f613ea02d6d082dad4c",
+          "uuid": "2b017522-01-aab9a6a41364a8a52443d310160e8736a09f3a14",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 29,
+      "source": "Cards",
+      "target": "Cards (cards29)",
+      "key": "cards29",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/foundation-2",
+          "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+          "uuid": "c9971dcb-05-27c45e620fdaa98b63cca1d5911108e7ec82f462",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 30,
+      "source": "Hero",
+      "target": "Hero (hero30)",
+      "key": "hero30",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/leadership",
+          "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+          "uuid": "2f4b9e2b-01-aab9a6a41364a8a52443d310160e8736a09f3a14",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 31,
+      "source": "Hero",
+      "target": "Hero (hero31)",
+      "key": "hero31",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/hospitality",
+          "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+          "uuid": "4ded2cb6-01-ae805be8212c9d3f225953a9e39d4c5c8f43e360",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 32,
+      "source": "Hero",
+      "target": "Hero (hero32)",
+      "key": "hero32",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/contact",
+          "urlHash": "eb7eb5274aa51fb61840c1ac35eb9072c800b329",
+          "uuid": "eb7eb527-01-fef4bbcbcf01d9eb13b09c4c2894c97c266913f4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 33,
+      "source": "Cards",
+      "target": "Cards (cards33)",
+      "key": "cards33",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+          "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+          "uuid": "1a2c0f43-04-1125c8874c57d677fb77928fa7850637f0b0a568",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/section[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 34,
+      "source": "Hero",
+      "target": "Hero (hero34)",
+      "key": "hero34",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/careers",
+          "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+          "uuid": "83d8713d-01-ad84c6b473e7b769b60c0c15cd59ef4eba029a2b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns block",
+      "target": "Columns block (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+          "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+          "uuid": "f28c4592-12-f742d085a62e4fc6b30dcc44d6b1853c0ed5e097",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "source": "Columns block",
+      "target": "Columns block (columns36)",
+      "key": "columns36",
+      "instances": [
+        {
+          "url": "https://corporate.ralphlauren.com/contact",
+          "urlHash": "eb7eb5274aa51fb61840c1ac35eb9072c800b329",
+          "uuid": "eb7eb527-02-20430cbf92461caa699108e489358273f67025bc",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+      "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+      "uuid": "035d9025-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+      "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+      "uuid": "035d9025-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+      "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+      "uuid": "035d9025-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_241029_AiR.html",
+      "urlHash": "035d9025b0140390f55ba82d6b3c5e5b206ad59b",
+      "uuid": "035d9025-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+      "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+      "uuid": "08497c6f-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+      "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+      "uuid": "08497c6f-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+      "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+      "uuid": "08497c6f-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_AskRalph.html",
+      "urlHash": "08497c6fe8747ad9023818cb6039eaffddec2410",
+      "uuid": "08497c6f-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/privacy-policy",
+      "urlHash": "0b38ed52c4a6ede79c434530b4250422b8a483e0",
+      "uuid": "0b38ed52-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/privacy-policy",
+      "urlHash": "0b38ed52c4a6ede79c434530b4250422b8a483e0",
+      "uuid": "0b38ed52-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+      "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+      "uuid": "170f61a8-01-efe8b5d5a9036b1a3881e3d9243c2aa621d8e993",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+      "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+      "uuid": "170f61a8-02-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+      "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+      "uuid": "170f61a8-04-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_230410_CancerCenterAtGeorgetown.html",
+      "urlHash": "170f61a8d4905f33b7ba48d7e497cf1827d82b8f",
+      "uuid": "170f61a8-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-02-01088f4b661cbd70c1851ad6ba1f9f8cef8faabd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-05-7aaab40b58696864760fc79e234ae9f0b578ae33",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[3]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-06-4fea34474f30910caa9f8e02938a74a37afd1a08",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-07-93d9ff88ae68cc29191fcaf31d35802f0d6e505e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-10-b16255a5432c2c6326ce064ffe94d5fd72f93946",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-11-419e702309968d6fb77d586bdfdfe9cca3cd89fb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-12-6065e71dbdc2472d14183ee3e6306beb90c9822b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-create-with-intent",
+      "urlHash": "1a2c0f433050b6a5142a7a3b694b52c6d6545da4",
+      "uuid": "1a2c0f43-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-01-d69a40c78d97fb786013551eff7b328337c1deb6",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-02-fefe447dd862314f304d140065f13a5f5bb01909",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-03-5407e3676bfd69664791f6616741a5d9278800c8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-05-8aec4fab9355708835dcec7b3d3014f222b7b87a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-07-0527bbaa4b8b6053cc6495c3e2f0db00454a6fb8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-08-80ddd1c3d7d31adad4e8b4888340ab2417454fb0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-10-9dd5e9c16d7b97f4a19a83e57b750134a3ebf666",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-12-af84356276bffcffc7fac07f5b50a18019d4be02",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/",
+      "urlHash": "1e60aaaca59771df002f51919fc9d076b316e7f6",
+      "uuid": "1e60aaac-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/210604_HumanRightsPolicy.html",
+      "urlHash": "1ec829b373d0c3460bb6a36cfdc7e60211827fa6",
+      "uuid": "1ec829b3-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/210604_HumanRightsPolicy.html",
+      "urlHash": "1ec829b373d0c3460bb6a36cfdc7e60211827fa6",
+      "uuid": "1ec829b3-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/leadership-patrice-louvet-full-bio.html",
+      "urlHash": "221fbe8ad5d5306168dba48f3868caa2041e956d",
+      "uuid": "221fbe8a-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/leadership-patrice-louvet-full-bio.html",
+      "urlHash": "221fbe8ad5d5306168dba48f3868caa2041e956d",
+      "uuid": "221fbe8a-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/our-company",
+      "urlHash": "2b01752240349afc4c0b6f613ea02d6d082dad4c",
+      "uuid": "2b017522-02-80230b0a0b2f9deb2faf41f85da8e5e261ac7827",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/our-company",
+      "urlHash": "2b01752240349afc4c0b6f613ea02d6d082dad4c",
+      "uuid": "2b017522-03-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/leadership",
+      "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+      "uuid": "2f4b9e2b-05-897fae2330ba6bfd9c6a9e6c45f26ca06436de07",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/leadership",
+      "urlHash": "2f4b9e2b7b87631c9f5f1a8c8078dea0752abefc",
+      "uuid": "2f4b9e2b-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/accessibility-statement",
+      "urlHash": "32b0f13bdd0ade7719c682ba6a30d8d410a77ee3",
+      "uuid": "32b0f13b-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/accessibility-statement",
+      "urlHash": "32b0f13bdd0ade7719c682ba6a30d8d410a77ee3",
+      "uuid": "32b0f13b-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+      "urlHash": "34cc24d4d995856739101f99b0c2dbcc827f1519",
+      "uuid": "34cc24d4-01-efe8b5d5a9036b1a3881e3d9243c2aa621d8e993",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+      "urlHash": "34cc24d4d995856739101f99b0c2dbcc827f1519",
+      "uuid": "34cc24d4-02-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250912_CorpDividend.html",
+      "urlHash": "34cc24d4d995856739101f99b0c2dbcc827f1519",
+      "uuid": "34cc24d4-04-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+      "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+      "uuid": "356f7b36-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+      "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+      "uuid": "356f7b36-03-ccfdfa5fb5f194fbf34f4774795723c8cf29a0c8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+      "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+      "uuid": "356f7b36-05-65575f7ef9e3208c208ff0d5189aaf9f3e067599",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+      "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+      "uuid": "356f7b36-07-ff8edd50e6fd489ab5f0f1fc6dd4215e6de184a1",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250807_Q1FY26_EarningsResults.html",
+      "urlHash": "356f7b3600e7706d03648a3212ad8b8b459b58da",
+      "uuid": "356f7b36-08-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+      "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+      "uuid": "387a9eb0-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+      "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+      "uuid": "387a9eb0-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+      "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+      "uuid": "387a9eb0-04-6ac3fc5cb4b08343b8c465ff9e6b004083dc37df",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250916_InvestorDay.html",
+      "urlHash": "387a9eb0eb0ae7ef846769fa43be2f1abce7e786",
+      "uuid": "387a9eb0-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-02-01088f4b661cbd70c1851ad6ba1f9f8cef8faabd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-03-ac955c2ed320213760f3f52728f136cba14c747e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-04-0e8f6c4bddde3ce9028025a5a0ebb3d82345e075",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]/section[1]/header[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-06-34fd996b5634e92b0599bc7ed4f4104dfbce9a05",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]/section[2]/header[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-08-91d4de1e8c0ddaba09f28b4a5fd885386db476c7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]/section[3]/header[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-10-fac85f986e7d3b524ebd998de7a687a0edcf107c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-13-ddcb0c8003e6299f14eca64e9123b7f3d13f9aea",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-14-b6ff9390b214cf5bf5db5b8599ed70597b1036b0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-15-7a063a96221ebb8ec9fcafb7e1660df3b6ae0e18",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/collaboration",
+      "urlHash": "398abe0f91ba8da086fd898515e4874bb7a59202",
+      "uuid": "398abe0f-16-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+      "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+      "uuid": "405ebc27-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+      "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+      "uuid": "405ebc27-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+      "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+      "uuid": "405ebc27-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240918_GCSReport.html",
+      "urlHash": "405ebc27b0c88f8392e634cd2100f061cb42b761",
+      "uuid": "405ebc27-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+      "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+      "uuid": "42b65f41-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+      "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+      "uuid": "42b65f41-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+      "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+      "uuid": "42b65f41-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240618_PoloRalphLaurenTeamUSA2024.html",
+      "urlHash": "42b65f41cb1ca2369e6d82870dfa5018d2fb54e1",
+      "uuid": "42b65f41-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/lauren-ralph-lauren",
+      "urlHash": "435cb52fa09992b0b6322272ea91e2a5c9f48d82",
+      "uuid": "435cb52f-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/lauren-ralph-lauren",
+      "urlHash": "435cb52fa09992b0b6322272ea91e2a5c9f48d82",
+      "uuid": "435cb52f-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+      "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+      "uuid": "490224ca-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+      "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+      "uuid": "490224ca-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+      "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+      "uuid": "490224ca-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250818_RyderCup.html",
+      "urlHash": "490224ca7745845e043d1a55eacdf6bf1d0be50b",
+      "uuid": "490224ca-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/hospitality",
+      "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+      "uuid": "4ded2cb6-02-fad496a656274684bafbb2b26ae7e57eb6595e5d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/hospitality",
+      "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+      "uuid": "4ded2cb6-03-a67eafb6f4d51b45891a953fe39ff4073aecd397",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/hospitality",
+      "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+      "uuid": "4ded2cb6-04-12fb265c1c079677a7441318365f5bc64210c931",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/hospitality",
+      "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+      "uuid": "4ded2cb6-06-897fae2330ba6bfd9c6a9e6c45f26ca06436de07",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/hospitality",
+      "urlHash": "4ded2cb6302dfc0598bd661dbbc23463224ef0b2",
+      "uuid": "4ded2cb6-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/polo-ralph-lauren",
+      "urlHash": "4f6b4ec041d9b683b3fcd1516b317112a365dc75",
+      "uuid": "4f6b4ec0-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/polo-ralph-lauren",
+      "urlHash": "4f6b4ec041d9b683b3fcd1516b317112a365dc75",
+      "uuid": "4f6b4ec0-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/investor-relations",
+      "urlHash": "50053c4ea86eb86e6a9f46351555a418e3ddbe37",
+      "uuid": "50053c4e-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/investor-relations",
+      "urlHash": "50053c4ea86eb86e6a9f46351555a418e3ddbe37",
+      "uuid": "50053c4e-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+      "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+      "uuid": "5130b703-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+      "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+      "uuid": "5130b703-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+      "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+      "uuid": "5130b703-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250723_PRLOakBluffs.html",
+      "urlHash": "5130b703468bade147c9882e568be799d6e371ee",
+      "uuid": "5130b703-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/terms-of-use",
+      "urlHash": "5273550d7ed1b032ce27f6d5ee4f2bafa6bed3f0",
+      "uuid": "5273550d-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/terms-of-use",
+      "urlHash": "5273550d7ed1b032ce27f6d5ee4f2bafa6bed3f0",
+      "uuid": "5273550d-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-02-01088f4b661cbd70c1851ad6ba1f9f8cef8faabd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-05-b5eafe8f305e763e75ea4b1065e64826d7e9e072",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-06-a98f7c14b5f2214c8995e059927f9689fab46a83",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[2]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-07-7aaab40b58696864760fc79e234ae9f0b578ae33",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[3]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-08-4fea34474f30910caa9f8e02938a74a37afd1a08",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-09-93d9ff88ae68cc29191fcaf31d35802f0d6e505e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-12-b16255a5432c2c6326ce064ffe94d5fd72f93946",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-13-419e702309968d6fb77d586bdfdfe9cca3cd89fb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-14-6065e71dbdc2472d14183ee3e6306beb90c9822b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-protect-the-environment",
+      "urlHash": "5a5e5e097e257cbcf1f1b7cac9f169635e270d0f",
+      "uuid": "5a5e5e09-15-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/strategy",
+      "urlHash": "68111c8eb8bf735d4bc6345a62f55bc9dafc8f22",
+      "uuid": "68111c8e-02-085ac5e5d650bcbca97cdeb529f8e2fe6df1c43a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]/article[4]/section[1]/div[1]/div[2]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/strategy",
+      "urlHash": "68111c8eb8bf735d4bc6345a62f55bc9dafc8f22",
+      "uuid": "68111c8e-03-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-02-01088f4b661cbd70c1851ad6ba1f9f8cef8faabd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-03-ac955c2ed320213760f3f52728f136cba14c747e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[1]",
+      "section": "section-8"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-04-5b640c14bbb03128d044fdb5eb10da4a56747efa",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]/div[1]/section[2]",
+      "section": "section-8"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-06-fac85f986e7d3b524ebd998de7a687a0edcf107c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-09-ddcb0c8003e6299f14eca64e9123b7f3d13f9aea",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-10-b6ff9390b214cf5bf5db5b8599ed70597b1036b0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-11-7a063a96221ebb8ec9fcafb7e1660df3b6ae0e18",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/reports-and-policies",
+      "urlHash": "691c2d08dde1a06a51de5b041ce090162f4f692c",
+      "uuid": "691c2d08-12-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+      "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+      "uuid": "6f0d25c9-01-efe8b5d5a9036b1a3881e3d9243c2aa621d8e993",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+      "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+      "uuid": "6f0d25c9-02-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+      "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+      "uuid": "6f0d25c9-04-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220511_CorpFoundation_Donation.html",
+      "urlHash": "6f0d25c937377cea2e1999561f0ec72b45b5e318",
+      "uuid": "6f0d25c9-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+      "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+      "uuid": "76f4d07d-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+      "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+      "uuid": "76f4d07d-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+      "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+      "uuid": "76f4d07d-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_240905_Spring2025FashionShow.html",
+      "urlHash": "76f4d07dc59b5f62f38083f4c2e7c4300b5fb524",
+      "uuid": "76f4d07d-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-02-01088f4b661cbd70c1851ad6ba1f9f8cef8faabd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-05-7aaab40b58696864760fc79e234ae9f0b578ae33",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[3]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-06-4fea34474f30910caa9f8e02938a74a37afd1a08",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-07-93d9ff88ae68cc29191fcaf31d35802f0d6e505e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-10-b16255a5432c2c6326ce064ffe94d5fd72f93946",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-11-419e702309968d6fb77d586bdfdfe9cca3cd89fb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-12-6065e71dbdc2472d14183ee3e6306beb90c9822b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-champion-better-lives",
+      "urlHash": "7e0e3839b0e99640a72d595af6535bcabc4d9827",
+      "uuid": "7e0e3839-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-02-fad496a656274684bafbb2b26ae7e57eb6595e5d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-03-a67eafb6f4d51b45891a953fe39ff4073aecd397",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-04-12fb265c1c079677a7441318365f5bc64210c931",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-05-f5098aa0b74c0c3e8d7e2eda2d7e1d0cace22124",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-06-1a065baa0970974c5bb1342949fbc18f1c25321a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-07-73f3a1b07e44d482aa5a3fb7fad87eb0a908a2d4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-08-4a3555301280216cbf979e04ecb70b966a1e3da5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-09-8e8aeb01f634fcec7a9189e53676df9e8b7239f0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/careers",
+      "urlHash": "83d8713db24ee5825b0e88f5ceae5b6cd3f68abe",
+      "uuid": "83d8713d-10-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+      "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+      "uuid": "8ded1993-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+      "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+      "uuid": "8ded1993-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+      "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+      "uuid": "8ded1993-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html/",
+      "urlHash": "8ded1993a04248299f26d2fddef3cebd48cdcc29",
+      "uuid": "8ded1993-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/ralph-lauren-luxury",
+      "urlHash": "8ffa028236091c4771256de30da9b7dcf69ffc50",
+      "uuid": "8ffa0282-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/ralph-lauren-luxury",
+      "urlHash": "8ffa028236091c4771256de30da9b7dcf69ffc50",
+      "uuid": "8ffa0282-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+      "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+      "uuid": "95366521-01-efe8b5d5a9036b1a3881e3d9243c2aa621d8e993",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+      "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+      "uuid": "95366521-02-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+      "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+      "uuid": "95366521-04-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250710_Q1FY26_EarningsRelease.html",
+      "urlHash": "9536652102ebd494d998537f9fe48aff27382aee",
+      "uuid": "95366521-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/logos",
+      "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+      "uuid": "99437f74-01-1b387bd3456001e0626169ada486e6c75102f106",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/logos",
+      "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+      "uuid": "99437f74-02-e24aacdde2b1dcf2f09ba47148adfc72fa8191ce",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/logos",
+      "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+      "uuid": "99437f74-03-7a73d6f070915cd8a73cca5fb84a62fef03354a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/logos",
+      "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+      "uuid": "99437f74-05-8e39433abc27d41188eab70874342b63213c9def",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/logos",
+      "urlHash": "99437f74a88eb3ee6c36ccec205d92b582810349",
+      "uuid": "99437f74-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/brands",
+      "urlHash": "9e45a6cdc707e5e67221a5c374fcae4fd700cb24",
+      "uuid": "9e45a6cd-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/brands",
+      "urlHash": "9e45a6cdc707e5e67221a5c374fcae4fd700cb24",
+      "uuid": "9e45a6cd-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/leadership-ralph-lauren-full-bio.html",
+      "urlHash": "9f767b430e5fbf851888a179c70ca77484544a8a",
+      "uuid": "9f767b43-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/leadership-ralph-lauren-full-bio.html",
+      "urlHash": "9f767b430e5fbf851888a179c70ca77484544a8a",
+      "uuid": "9f767b43-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+      "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+      "uuid": "b2ff20a4-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+      "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+      "uuid": "b2ff20a4-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+      "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+      "uuid": "b2ff20a4-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_220315_PRLMorehouseSpelman.html",
+      "urlHash": "b2ff20a48ec73bd81b2d7635a2c742b15e8bdc2b",
+      "uuid": "b2ff20a4-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/transparency-acts",
+      "urlHash": "b94fc179b825d07ea71830707743b762fd40c853",
+      "uuid": "b94fc179-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/transparency-acts",
+      "urlHash": "b94fc179b825d07ea71830707743b762fd40c853",
+      "uuid": "b94fc179-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/cs-factory-list.html",
+      "urlHash": "bb26d834f3b450a6aba277901b09410287367097",
+      "uuid": "bb26d834-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/cs-factory-list.html",
+      "urlHash": "bb26d834f3b450a6aba277901b09410287367097",
+      "uuid": "bb26d834-02-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/newsroom",
+      "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+      "uuid": "c097c146-03-235050becdda666a352575e2a718ccae67f8a90c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/newsroom",
+      "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+      "uuid": "c097c146-09-f9bba3640f301a4f0f14d4827e50c77ff2bba797",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/newsroom",
+      "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+      "uuid": "c097c146-10-e911ee46f79f3998b2999c0a0d6febf962365e6f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/newsroom",
+      "urlHash": "c097c146a972832825515e1724fca4fed05c9036",
+      "uuid": "c097c146-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/chaps",
+      "urlHash": "c13feeae136010558fe66bc8b55a5fc631b18ae6",
+      "uuid": "c13feeae-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/chaps",
+      "urlHash": "c13feeae136010558fe66bc8b55a5fc631b18ae6",
+      "uuid": "c13feeae-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+      "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+      "uuid": "c45ce305-01-6de939c101fb3440f2f25ccbef0f7c32112d6460",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+      "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+      "uuid": "c45ce305-02-698efbafe5e66439e18b4c43086d078bda50acb6",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[2]/h1[1]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+      "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+      "uuid": "c45ce305-03-8ed0c61250305c9ad06bca386e1125f82057ef7b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[2]/section[1]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+      "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+      "uuid": "c45ce305-05-6a90e887c2e6c88ac4e736f5f78372518f5ccb1a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[2]/section[3]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+      "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+      "uuid": "c45ce305-08-e954111d29a36a1b3797f0018c792fb253bb5145",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/article[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/protecting-our-brands",
+      "urlHash": "c45ce305377b288d0df0615b280848111843ca29",
+      "uuid": "c45ce305-09-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/foundation-2",
+      "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+      "uuid": "c9971dcb-01-12d4d3e4c20cf6ec1866c2c85cc631764578266b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/foundation-2",
+      "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+      "uuid": "c9971dcb-03-3babcfe40d308945221edf018098f83f2c8eeb14",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[4]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/foundation-2",
+      "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+      "uuid": "c9971dcb-04-e2fe722a7dd44d01c59ddfeac70d3b917671b53b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/foundation-2",
+      "urlHash": "c9971dcb658bae6eb5b868739cf640c9d49b5fab",
+      "uuid": "c9971dcb-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+      "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+      "uuid": "ca07ee8d-01-efe8b5d5a9036b1a3881e3d9243c2aa621d8e993",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+      "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+      "uuid": "ca07ee8d-02-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+      "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+      "uuid": "ca07ee8d-04-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231009_RalphLaurenCenterAtUSC-Norris.html",
+      "urlHash": "ca07ee8de89ad981db0b8d55448aeeec798a323e",
+      "uuid": "ca07ee8d-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/media-assets",
+      "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+      "uuid": "cddc54ed-01-1b387bd3456001e0626169ada486e6c75102f106",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/media-assets",
+      "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+      "uuid": "cddc54ed-02-e24aacdde2b1dcf2f09ba47148adfc72fa8191ce",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/media-assets",
+      "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+      "uuid": "cddc54ed-03-7a73d6f070915cd8a73cca5fb84a62fef03354a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/media-assets",
+      "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+      "uuid": "cddc54ed-05-8e39433abc27d41188eab70874342b63213c9def",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/media-assets",
+      "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+      "uuid": "cddc54ed-07-5b6355e3908093e05fd61ac803e4b1fcadf6cb0b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/media-assets",
+      "urlHash": "cddc54ed33775091af170dfa2900cdd3fcd51245",
+      "uuid": "cddc54ed-08-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+      "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+      "uuid": "d00ceb73-02-76764bb88113ea4fcfd58cf8738a63f617086241",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+      "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+      "uuid": "d00ceb73-03-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+      "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+      "uuid": "d00ceb73-05-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_231205_AiR.html",
+      "urlHash": "d00ceb735d67ea3cb113d9728b858f4e9c00bd35",
+      "uuid": "d00ceb73-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-01-d6ed04c4eb0a288eed45cce199c008d619ad6ef0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-02-5127d2252544e9752bdd6a0b10be228517e111dc",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-03-89f37b0b55ffb59ad88b70bf0d3fcad84544753c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-04-4cde70cdbf5efc1f270f1738f95dade688189e7d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ol[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-05-fd2bdb63b3629f0ac3123f720d9c3150bd49e21c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-06-4a77cee8d4a044b78dbb23c8f5a253da15b81c22",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-07-05d3a877a3cff9a56263b8a220e77f47af65ba1f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[6]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-08-15b98b0e92f8f5e2f1cf878e8432c7fc512f82c5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[7]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-09-09c84081032ca7f2cad11fefc8bd36ad8830e019",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ol[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-10-a47c137265b520f42ae036754533ebc39dca098b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[8]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-11-7abefaf4aacf039eb4884fef465a76788dae4975",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[9]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-12-1d9c70c71f138a703bfa51fdd4bb9e69c26417bc",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[10]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-13-0a3fc06190c2b89ca75c33206e028a0126fe148d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[11]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-14-3df16ee0b78ce5a2c8771654776868d8c97c20f2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[12]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-15-ad07c9596741299ad050689d7549d35d51ed99dd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[13]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-16-6b1c2ee92632cba692756ed6813098ebdecf1e58",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[14]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-17-e7e3cadb3648c43cb7d823a9affbe393217b4ec8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[15]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-18-0d608f6f203242fc0574817653f668bbd6b7372d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[16]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-19-7f8dc17f49b36c6dde6248b3bc3dd613d56619b7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[17]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-20-28ea3a5bf8fd39754dc498708e48ae24083355d2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ol[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-21-9c2afda0157f2961a6bbee691d08a7e92405fe32",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[18]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-22-77b8b6e1d1a03e64d66cff4dff24ad88b2b889ce",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[19]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-23-726661ac9ae68216f700af83ff7f98e1557ed5e4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[20]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-24-458bf353f27634124801b974ddf1e9267ab32616",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ol[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-25-9cad1f9f04184d5fb894fa8a586d56c48a0e54a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[22]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-26-00f6bcd901b0c804e83597e739dc3b8bd533cbe5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[23]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-27-08590c85b5b92a37f71896287460fadd641e3a8b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ol[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-28-0e103b2620786cf2234e54ad070867f0f1848486",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[26]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-29-4a3032ffbb93c8af0a184e5708cb247dd03a6a69",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[27]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-30-cad51ace7b2550da60fb251293286302c62ecee3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[29]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-31-85e017536e1ca818ea9126a9885b127506530ecb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[30]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-32-687d3bd033f5e3c954b51d4e9e053b02a55ffb7e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[31]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-33-5874ab241dcfe798ffb4161c04ba5c1d0cda0ffa",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[32]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-34-23c3e9a850f3934249a09ee9ba8af979e38d3fbf",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/operating-guidelines",
+      "urlHash": "d19d65cbf25fdd8c8960f9fe600dc90cb35d4e48",
+      "uuid": "d19d65cb-35-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-01-d69a40c78d97fb786013551eff7b328337c1deb6",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-02-fefe447dd862314f304d140065f13a5f5bb01909",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-03-5407e3676bfd69664791f6616741a5d9278800c8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-05-8aec4fab9355708835dcec7b3d3014f222b7b87a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-07-0527bbaa4b8b6053cc6495c3e2f0db00454a6fb8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-08-80ddd1c3d7d31adad4e8b4888340ab2417454fb0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-10-9dd5e9c16d7b97f4a19a83e57b750134a3ebf666",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-12-af84356276bffcffc7fac07f5b50a18019d4be02",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show",
+      "urlHash": "d662f9428cf3cd7d82507ecbe5a9f3c574304785",
+      "uuid": "d662f942-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+      "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+      "uuid": "dab02d5c-01-efe8b5d5a9036b1a3881e3d9243c2aa621d8e993",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+      "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+      "uuid": "dab02d5c-02-ab2930ff1ffa090acf9f8d5adfd629011a740d99",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+      "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+      "uuid": "dab02d5c-04-48cb106cc82da308cac21ce8c1a977acef2e81de",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/pr_250909_InvestorDay2025-Announcement.html",
+      "urlHash": "dab02d5c42de7953056a80b7f227505d2f47a4aa",
+      "uuid": "dab02d5c-06-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/contact",
+      "urlHash": "eb7eb5274aa51fb61840c1ac35eb9072c800b329",
+      "uuid": "eb7eb527-03-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-02-01088f4b661cbd70c1851ad6ba1f9f8cef8faabd",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-03-13fa3a4174c6d46b256511614c634150e66d37f7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[2]",
+      "section": "section-13"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-04-27b77cfccac50a3aada0a0ed125f0b399f53718f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-05-f51690631a4aec779494ee8526556e397c8ad2f3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[1]/h3[1]/span[1]",
+      "section": "section-14"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-07-04a0dcf77831587d492d299f99d746137091f732",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-08-d30bd4b0bee7593103201fe8d9726ce9b0a975e0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[2]/h3[1]/span[1]",
+      "section": "section-15"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-10-637744c1bdf4624b2d9ad7aca16cfcecee0ee9b7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-11-ee453791d2124d16b3ee9df43ded56194d8b7b4f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[3]/h3[1]/span[1]",
+      "section": "section-16"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-13-32263450aabcb6926e559cb361b27c41eb85e0b3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/section[1]/section[3]/article[3]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-14-4fea34474f30910caa9f8e02938a74a37afd1a08",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-15-93d9ff88ae68cc29191fcaf31d35802f0d6e505e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-18-b16255a5432c2c6326ce064ffe94d5fd72f93946",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-19-419e702309968d6fb77d586bdfdfe9cca3cd89fb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[4]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-20-6065e71dbdc2472d14183ee3e6306beb90c9822b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[3]/div[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/citizenship-and-sustainability",
+      "urlHash": "f28c4592b815fbbb3f7830a751de4743c1536de2",
+      "uuid": "f28c4592-21-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/foundation-1",
+      "urlHash": "f696eda8a67344329803a980acf5270d120700fb",
+      "uuid": "f696eda8-01-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+      "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+      "uuid": "fd09045c-03-235050becdda666a352575e2a718ccae67f8a90c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+      "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+      "uuid": "fd09045c-09-f9bba3640f301a4f0f14d4827e50c77ff2bba797",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+      "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+      "uuid": "fd09045c-10-e911ee46f79f3998b2999c0a0d6febf962365e6f",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/s/RalphLauren_Corporate/newsroom",
+      "urlHash": "fd09045cacb4b34781cad9c4dca2b849cbce96ed",
+      "uuid": "fd09045c-13-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/images",
+      "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+      "uuid": "fd68109d-01-1b387bd3456001e0626169ada486e6c75102f106",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/images",
+      "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+      "uuid": "fd68109d-02-e24aacdde2b1dcf2f09ba47148adfc72fa8191ce",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/images",
+      "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+      "uuid": "fd68109d-03-7a73d6f070915cd8a73cca5fb84a62fef03354a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/images",
+      "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+      "uuid": "fd68109d-05-8e39433abc27d41188eab70874342b63213c9def",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[2]"
+    },
+    {
+      "url": "https://corporate.ralphlauren.com/images",
+      "urlHash": "fd68109da275fed6414c569fe8d492f16d35f6ef",
+      "uuid": "fd68109d-07-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[2]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 56
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(4, 30, 58) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw70cf4240/img/202409/citizenship/create/CreateWithIntent-BKG.jpg\") no-repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-4",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw2a5662b1/img/202409/citizenship/collaboration/CollboratingForImpact-BKG.jpg\") no-repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-5",
+      "background": "rgba(255, 255, 255, 0.85) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-6",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw201b6d32/img/202409/citizenship/environment/ProtectTheEnvironment-BKG.jpg\") no-repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-7",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw5bab7e0e/assets/images/STRATEGY/Strategy-BKG.jpg\") no-repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-8",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw68b17242/img/202409/citizenship/reports/ReportsPolicies-BKG.jpg\") no-repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-9",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwe6e7b0dc/img/202409/citizenship/champion/ChampionBetterLives-BKG.jpg\") no-repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-10",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw16591e29/img/201806/20180620_global_counterfeit_product_page/20180620_counterfeit_lp_c02_background_na.jpg\") no-repeat scroll 0px 0px / 100% padding-box border-box",
+      "count": 4
+    },
+    {
+      "name": "section-11",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw48e2f803/img/201806/20180620_global_counterfeit_product_page/20180620_counterfeit_lp_c03_banner_na.jpg\") no-repeat scroll 0px 0px / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-12",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw73c9c287/img/202409/Foundation/Foundation_Homepage-BKG.jpg\") no-repeat scroll 50% 0% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-13",
+      "background": "rgba(0, 0, 0, 0) url(\"https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwc7dd29df/img/202409/citizenship/lp/LandingPage-BKG.jpg\") no-repeat scroll 50% 100% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-14",
+      "background": "rgb(190, 159, 113) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-15",
+      "background": "rgb(49, 109, 180) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-16",
+      "background": "rgb(130, 180, 225) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
